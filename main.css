@@ -2,7 +2,7 @@
     
     background-image: linear-gradient(to right, #1F1C2C, #928DAB);
     color: cornsilk;
-    height:100vh;
+    height:auto;
     
     display: flex;
     
@@ -28,6 +28,11 @@ body{
     margin-top: 20px; 
     align-self: center;
     
+}
+
+.intro{
+    background-image: linear-gradient(to right, #ED4264, #FFEDBC);
+
 }
 .content{
     margin: 0px;

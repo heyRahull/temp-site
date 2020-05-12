@@ -39,6 +39,7 @@ body{
 }
 .who-i-am{
     background-image: linear-gradient(to right, #2BC0E4, #EAECC6);
+    height: auto;
 }
 .projects{
     background-image: linear-gradient(to right, #603813, #b29f94);

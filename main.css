@@ -36,10 +36,12 @@ body{
 .intro{
     background-image: linear-gradient(to right, #ED4264, #FFEDBC);
     height: auto;
+    display: flex;
 }
 .who-i-am{
     background-image: linear-gradient(to right, #2BC0E4, #EAECC6);
     height: auto;
+    display: flex;
 }
 .projects{
     background-image: linear-gradient(to right, #603813, #b29f94);

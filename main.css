@@ -36,18 +36,12 @@ body{
 .intro{
     background-image: linear-gradient(to right, #ED4264, #FFEDBC);
     height: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center; 
+    display: block;
 }
 .who-i-am{
     background-image: linear-gradient(to right, #2BC0E4, #EAECC6);
     height: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center; 
+    display: block;
 }
 .projects{
     background-image: linear-gradient(to right, #603813, #b29f94);

@@ -10,6 +10,7 @@
     justify-content: center;
     align-items: center;
     text-align: center; 
+    padding-left: 12px;
     /* padding: 5em 20em; */
 
 
@@ -37,17 +38,34 @@ body{
     background-image: linear-gradient(to right, #ED4264, #FFEDBC);
     height: auto;
     display: block;
+   padding-top: 30px;
+    padding-left: 25px;
+    padding-bottom: 30px;
+    text-align: left;
+
 }
 .who-i-am{
     background-image: linear-gradient(to right, #2BC0E4, #EAECC6);
-    height: auto;
+    height: auto;  
+    padding-top: 30px;
+    padding-left: 25px;
+    padding-bottom: 30px;
+    text-align: left;
     display: block;
 }
 .projects{
     background-image: linear-gradient(to right, #603813, #b29f94);
+    padding-top: 30px;
+    padding-left: 25px;
+    padding-bottom: 30px;
+    text-align: center;
 }
 .site-footer{
     background-image: linear-gradient(to right, #283048, #859398);
+    padding-top: 30px;
+    padding-left: 25px;
+    padding-bottom: 30px;
+    text-align: center;
 }
 
 .content{
